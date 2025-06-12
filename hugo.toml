@@ -8,7 +8,7 @@ theme = 'hugo-blog-awesome'
 
   intro = "O projeto introdutório de Hugo :)"
 
-  name = "Anna Beatriz, Thiago Raphael, Francisco Azineu, Haydée Laiz"
+  name = "Anna Beatriz, Thiago Raphael, Francisco Azineu, Haydée Laiz, Victor Rodrigues"
 
   description = "Projeto feito utilizando Hugo, um gerador de sites estáticos escrito em Go."
   [Languages.pt-br.menu]

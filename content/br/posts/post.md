@@ -55,6 +55,7 @@ O projeto foi realizado com dedicação e empenho por um grupo de alunos do **3�
 * Francisco Azineu
 * Anna Beatriz
 * Haydée Laiz
+* Victor Rodrigues
 * Thiago Raphael
 
 Esperamos que este guia tenha sido útil para esclarecer o que é o Hugo e inspirar novos projetos!
