@@ -1,0 +1,25 @@
+baseURL = 'https://annablsantos.github.io/hugoproject.github.io/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'hugo-blog-awesome'
+
+[Languages.pt-br.params.author]
+  avatar = "unipe_logo"
+
+  intro = "The Hugo Introductory Project :)"
+
+  name = "Anna Beatriz, Thiago Raphael, Francisco Azineu, Haydée Laiz"
+
+  description = "Projeto feito utilizando Hugo, um gerador de sites estáticos escrito em Go. Projeto também contém deploy utilizando o GitHub Pages."
+
+  [Languages.pt-br.menu]
+  [[Languages.pt-br.menu.main]]
+    pageRef="/"
+    name = 'Início'
+    url = '/'
+    weight = 10
+  [[Languages.pt-br.menu.main]]
+    pageRef="posts"
+    name = 'Publicações'
+    url = '/posts/'
+    weight = 20
