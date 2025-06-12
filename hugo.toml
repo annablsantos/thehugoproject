@@ -4,14 +4,13 @@ title = 'My New Hugo Site'
 theme = 'hugo-blog-awesome'
 
 [Languages.pt-br.params.author]
-  avatar = "unipe_logo..jfif"
+  avatar = "unipe_logo.jfif"
 
-  intro = "The Hugo Introductory Project :)"
+  intro = "O projeto introdutório de Hugo :)"
 
   name = "Anna Beatriz, Thiago Raphael, Francisco Azineu, Haydée Laiz"
 
-  description = "Projeto feito utilizando Hugo, um gerador de sites estáticos escrito em Go. Projeto também contém deploy utilizando o GitHub Pages."
-
+  description = "Projeto feito utilizando Hugo, um gerador de sites estáticos escrito em Go."
   [Languages.pt-br.menu]
   [[Languages.pt-br.menu.main]]
     pageRef="/"
@@ -21,5 +20,5 @@ theme = 'hugo-blog-awesome'
   [[Languages.pt-br.menu.main]]
     pageRef="posts"
     name = 'Publicações'
-    url = '/posts/'
+    url = '/br/posts/post/'
     weight = 20
