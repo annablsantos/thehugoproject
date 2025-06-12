@@ -4,7 +4,7 @@ title = 'My New Hugo Site'
 theme = 'hugo-blog-awesome'
 
 [Languages.pt-br.params.author]
-  avatar = "unipe_logo"
+  avatar = "unipe_logo..jfif"
 
   intro = "The Hugo Introductory Project :)"
 
